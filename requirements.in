@@ -2,3 +2,4 @@ Flask
 gunicorn
 threads-api
 python-dotenv
+cryptography
