@@ -50,6 +50,8 @@ multidict==6.0.4
     # via
     #   aiohttp
     #   yarl
+pillow==10.0.0
+    # via -r requirements.in
 pycparser==2.21
     # via cffi
 pycryptodomex==3.18.0

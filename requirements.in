@@ -4,3 +4,4 @@ threads-api
 python-dotenv
 cryptography
 instagrapi
+Pillow
