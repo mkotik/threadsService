@@ -6,3 +6,4 @@ cryptography
 instagrapi
 Pillow
 colorama
+asgiref
